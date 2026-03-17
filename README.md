@@ -3,8 +3,6 @@
 
 ---
 
-# 空间智能学习日志
-
 ## 第一阶段 - 稀疏重建与数据解析
 > **项目状态**：Phase 1 完结（点云重构 + 坐标提取）
 
@@ -31,7 +29,7 @@
 
 #### 3. 运行截图
 ![COLMAP 3D点云效果](./colmap_result.png)
-![PyCharm 坐标解析结果](./pycharm_output1.png)(./pycharm_output2.png)(./pycharm_output3.png)
+![PyCharm 坐标解析结果](./pycharm_output.png)
 
 ---
 
